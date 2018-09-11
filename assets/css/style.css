@@ -299,7 +299,7 @@ text-transform: uppercase;
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99bf3b', endColorstr='#668b3f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 .service h4 {
-    font-size: 30px;
+    font-size: 23px;
     color: #fff;
     display: block;
 }
@@ -316,11 +316,10 @@ text-transform: uppercase;
     position: relative;
 }
 .diaNoDentista p {
-    font-size: 25px;
+    font-size: 22px;
     color: #0f6936;
     display: block;
     line-height: 30px;
-    margin-top: 30px;
 }
 /*contact section*/
 
@@ -674,7 +673,7 @@ responsive area
         padding-bottom: 30px;
     }
     .service h2 {
-        font-size: 70px;
+        font-size: 50px;
         color: #FFF;
         text-align: center;
     }
@@ -684,7 +683,6 @@ responsive area
         text-align: center;
     }
 }
-
 
 /* md */
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -785,7 +783,7 @@ responsive area
         padding-bottom: 30px;
     }
     .service h2 {
-        font-size: 70px;
+        font-size: 50px;
         color: #FFF;
         text-align: center;
     }
@@ -920,7 +918,7 @@ responsive area
         padding-bottom: 30px;
     }
     .service h2 {
-        font-size: 70px;
+        font-size: 50px;
         color: #FFF;
         text-align: center;
     }

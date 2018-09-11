@@ -64,22 +64,22 @@
                 </a>
             </div>
             <div class="col-xs-12 col-md-3 col-sm-3">
-                <a href="#odontopediatria" class="single-about-detail">
-                    <div class="about-img">
-                        <img class="img-responsive" src="<?= base_url(); ?>assets/images/primeiro_dia_no_dentista.png" alt="Primeiro Dia no Dentista">
-                    </div>
-                    <div class="about-details">
-                        <h3>Odontopediatria</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-xs-12 col-md-3 col-sm-3">
                 <a href="#harmonizacao-orofacial" class="single-about-detail">
                     <div class="about-img">
                         <img class="img-responsive" src="<?= base_url(); ?>assets/images/harmonizacao_facial.png" alt="Harmonização Facial">
                     </div>
                     <div class="about-details">
                         <h3>Harmonização Orofacial</h3>
+                    </div>
+                </a>
+            </div>
+            <div class="col-xs-12 col-md-3 col-sm-3">
+                <a href="#odontopediatria" class="single-about-detail">
+                    <div class="about-img">
+                        <img class="img-responsive" src="<?= base_url(); ?>assets/images/primeiro_dia_no_dentista.png" alt="Primeiro Dia no Dentista">
+                    </div>
+                    <div class="about-details">
+                        <h3>Odontopediatria</h3>
                     </div>
                 </a>
             </div>
@@ -145,6 +145,32 @@
     </div>
 </section>
 
+<section class="areasAtuacoes" id="harmonizacao-orofacial">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-6 hidden-xs">
+                <img class="img-responsive" src="<?= base_url(); ?>assets/images/Harmonizacao_Orofacial.jpg" alt="Harmonização Orofacial">
+            </div>
+            <div class="col-sm-6 col-md-6 text-left">
+                <h3>Harmonização Orofacial</h3>
+                <p>Uma pequena mudança pode trazer grandes transformações na vida de uma pessoa.</p>
+                <p>A Harmonização Orofacial é uma área na Odontologia que reúne procedimentos que buscam a adequação estética e funcional entre dentes, lábios, expressões orofacial e funções musculares.
+                    Dentre seus resultados, estão a prevenção e o retardo do envelhecimento, a mudança de características indesejáveis e a melhora do tônus da pele. 
+                    A Arco Odontologia Preventiva realiza procedimentos de harmonização facial levando em consideração a necessidade e a opinião de cada paciente, indicando e realizando algumas das mais avançadas técnicas estéticas orofacial.</p>
+                <p>Confira alguns de nossos procedimentos</p>
+                <p>Botox – prevenindo rugas dinâmicas e estáticas, pode ainda rejuvenescer, levantar a sobrancelha, mudar o formato de lábios, tratar a paralisia facial e o sorriso gengival.</p>
+                <p>Lifting – diminui a flacidez ao recolocar a pele no lugar ideal, retardando um procedimento cirúrgico mais invasivo. Bem como ser coadjuvante no tratamento de distonia muscular, dor e cefaleia.</p>
+                <p>Aumento de lábio – por meio de lifting ou preenchimento, desenha lábios mais carnudos ou  devolve o desenho natural perdido com a idade.</p>
+                <p>Preenchedores definitivos - através de uma pequena cirurgia, preenche-se o queixo tornando-o mais harmônico com as linhas do rosto.</p>
+                <p>Contorno de mandíbula – conquista-se um contorno facial mais marcado, com ângulos mais definidos e bonitos.</p>
+            </div>
+            <div class="col-sm-6 col-md-6 visible-xs">
+                <img class="img-responsive" src="<?= base_url(); ?>assets/images/Harmonizacao_Orofacial.jpg" alt="Harmonização Orofacial">
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="areasAtuacoes" id="odontopediatria">
     <div class="container">
         <div class="row">
@@ -167,32 +193,6 @@
             </div>
             <div class="col-sm-6 col-md-6">
                 <img class="img-responsive" src="<?= base_url(); ?>assets/images/Odontopediatria.jpg" alt="Odontopediatria">
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="areasAtuacoes" id="harmonizacao-orofacial">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-6 col-md-6 hidden-xs">
-                <img class="img-responsive" src="<?= base_url(); ?>assets/images/Harmonizacao_Orofacial.jpg" alt="Harmonização Orofacial">
-            </div>
-            <div class="col-sm-6 col-md-6 text-left">
-                <h3>Harmonização Orofacial</h3>
-                <p>Uma pequena mudança pode trazer grandes transformações na vida de uma pessoa.</p>
-                <p>A Harmonização Orofacial é uma área na Odontologia que reúne procedimentos que buscam a adequação estética e funcional entre dentes, lábios, expressões orofacial e funções musculares.
-                    Dentre seus resultados, estão a prevenção e o retardo do envelhecimento, a mudança de características indesejáveis e a melhora do tônus da pele. 
-                    A Arco Odontologia Preventiva realiza procedimentos de harmonização facial levando em consideração a necessidade e a opinião de cada paciente, indicando e realizando algumas das mais avançadas técnicas estéticas orofacial.</p>
-                <p>Confira alguns de nossos procedimentos</p>
-                <p>Botox – prevenindo rugas dinâmicas e estáticas, pode ainda rejuvenescer, levantar a sobrancelha, mudar o formato de lábios, tratar a paralisia facial e o sorriso gengival.</p>
-                <p>Lifting – diminui a flacidez ao recolocar a pele no lugar ideal, retardando um procedimento cirúrgico mais invasivo. Bem como ser coadjuvante no tratamento de distonia muscular, dor e cefaleia.</p>
-                <p>Aumento de lábio – por meio de lifting ou preenchimento, desenha lábios mais carnudos ou  devolve o desenho natural perdido com a idade.</p>
-                <p>Preenchedores definitivos - através de uma pequena cirurgia, preenche-se o queixo tornando-o mais harmônico com as linhas do rosto.</p>
-                <p>Contorno de mandíbula – conquista-se um contorno facial mais marcado, com ângulos mais definidos e bonitos.</p>
-            </div>
-            <div class="col-sm-6 col-md-6 visible-xs">
-                <img class="img-responsive" src="<?= base_url(); ?>assets/images/Harmonizacao_Orofacial.jpg" alt="Harmonização Orofacial">
             </div>
         </div>
     </div>
@@ -228,8 +228,13 @@
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-6 text-center">
                 <h2>Primeiro Dia no Dentista</h2>
-                <p>É um dia reservado de boas surpresas aos pequenos pacientes, onde acontece a apresentação do meio odontológico de forma acolhedora, sem intervenção clínica, apenas uma avaliação bucal.</p>
-                <p>As crianças são apresentadas ao universo odontológico em linguagem compatível com a idade e é realizado um check up digital. Quanto antes a criança fizer uma consulta ao dentista, mais facilmente irá incorporar hábitos saudáveis em seu dia a dia e criar vínculo de confiança com seu dentista.</p>
+                <p>É um dia reservado de boas surpresas aos pequenos pacientes, onde<br/>
+                    acontece a apresentação do meio odontológico de forma acolhedora, sem<br/>
+                    intervenção clínica, apenas uma avaliação bucal.</p>
+                <p>As crianças são apresentadas ao universo odontológico em linguagem<br/> 
+                    compatível com a idade e é realizado um check up digital. Quanto antes<br/> 
+                    a criança fizer uma consulta ao dentista, mais facilmente irá incorporar<br/> 
+                    hábitos saudáveis em seu dia a dia e criar vínculo de confiança com seu dentista.</p>
                 <p>Agende um horário</p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-6">
@@ -301,6 +306,7 @@
     </div>
 </section>
 
+<!--
 <section class="box-video" id="video">
     <div class="container-fluid">
         <div class="container">
@@ -316,6 +322,7 @@
         </div>
     </div>
 </section>
+-->
 
 <!-- contact section starts here -->
 <section class="contact" id="contact">
